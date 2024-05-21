@@ -13,7 +13,7 @@ As a data enthusiast, I aim to leverage my analytical and technical skills to ta
 
 </a> <a href="https://www.linkedin.com/in/rajesh-kumar-45363322a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 
-
+## 📊 GitHub Stats:
 <img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh9360&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=Rajesh9360&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
 
