@@ -14,10 +14,12 @@ As a data enthusiast, I aim to leverage my analytical and technical skills to ta
 
 
 
+
+
 Skills: SQL/ PYTHON / ML 
 
 - 🔭 I’m currently working on SQL,ML. 
-
+- 📫 How to reach me:rajeshkumaroff68@gmail.com
 
 
 
