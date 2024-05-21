@@ -1,7 +1,7 @@
 
 # Hi there 👋 Im Rajesh Kumar  
 
-
+Data Analytics and Data Science
 A Bit About Me
 
 As a data enthusiast, I aim to leverage my analytical and technical skills to tackle complex data challenges. I am dedicated to keeping up with the latest technologies and committed to continuous learning. I believe that collaboration is essential in the data world, and I am eager to work with industry professionals to hone my abilities and make a meaningful impact in the field of analytics.
@@ -14,7 +14,7 @@ As a data enthusiast, I aim to leverage my analytical and technical skills to ta
 
 
 
-Skills: SQL/ PYTHON / ML 
+Skills: SQL/ PYTHON /BI/ ML 
 
 - 🔭 I’m currently working on SQL,ML. 
 - 📫 How to reach me:rajeshkumaroff68@gmail.com
